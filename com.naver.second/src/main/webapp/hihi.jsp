@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	jsp test1qweqw
+	jsp test
 </body>
 
 <script type="text/javascript">
